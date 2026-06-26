@@ -14,4 +14,4 @@ C#, ASP.NET Core, Web API, Entity Framework Core, SQL Server, Azure, and AI tool
 - [scottneidig.com](https://scottneidig.com) — my site and consulting/booking platform
 
 📍 Lyons, CO · Remote · Open to backend .NET roles
-🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)
+🔗 [LinkedIn](https://www.linkedin.com/in/sneidig)
