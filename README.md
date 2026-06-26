@@ -9,8 +9,7 @@ C#, ASP.NET Core, Web API, Entity Framework Core, SQL Server, Azure, and AI tool
 (Claude Code, Codex CLI, CodeRabbit, Azure OpenAI).
 
 **A few things I've built**
-- [Jambalam](https://jambalam.com) — a live .NET platform built as a custom nopCommerce
-  plugin (extending the platform through its plugin model rather than forking it), with an
+- [Jambalam](https://jambalam.com) — a live .NET platform built as a custom nopCommerce plugin, with an
   AI-powered PDF import feature (Azure Document Intelligence + Azure OpenAI)
 - [scottneidig.com](https://scottneidig.com) — my personal portfolio site, built with
   React and ASP.NET Core (EF Core, SQL Server)
