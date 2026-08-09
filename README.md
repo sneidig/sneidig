@@ -7,8 +7,6 @@ C#, ASP.NET Core, Web API, Entity Framework Core, SQL Server, Azure, and AI tool
 
 **A few things I've built**
 
-**A few things I've built**
-
 - **[Jambalam](https://jambalam.com)** — a live .NET platform built as a custom nopCommerce plugin, with an AI-powered PDF import feature (Azure Document Intelligence + Azure OpenAI)
-- **[scottneidig.com](https://scottneidig.com)** — my personal portfolio site, built with React and ASP.NET Core (EF Core, SQL Server)
+- **[scottneidig.com](https://scottneidig.com)** — my personal site, built on ASP.NET Core, EF Core, and SQL Server
 - **[Learning Games](https://sneidig.github.io/learning-games/)** — a growing collection of interactive browser games that drill C# / .NET concepts: the ASP.NET Core request lifecycle, unit-testing thinking (xUnit), access modifiers, and Big O. All of them run on a single data-driven, levels-as-JSON puzzle engine I built — a new game is new content, not new code. _([code](https://github.com/sneidig/learning-games))_
